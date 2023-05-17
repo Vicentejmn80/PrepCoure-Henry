@@ -1,2 +1,1 @@
-# PrepCoure-Henry
-Este es un repositorio del m2 del prepcoursse de henry
+Prueba de como crear un repositorio y clonarlo desde github a mi computadora.
